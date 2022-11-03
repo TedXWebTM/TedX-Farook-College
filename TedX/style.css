@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+}
+body{
+    background-color:#000000;
+    color: white;
+}
+
+.header{
+    background-color: #000000;
+    height: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header img{
+    height: 29px;
+}
+.head{
+    height: 45vh;
+    background-color: rgb(120,22,16);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.head img{
+    height: 40px;
+}
+.content{
+    height: 50vh;
+    margin: 25px;
+}
+.paras1{
+    padding: 10px;
+
+}
+.event{
+    padding: 10px;
+    height: 50vh;
+}
+.btn{
+    border: solid 1.5px white;
+    background-color: black;
+    color: #e61b1e;
+    margin: 0;
+    padding:5px 10px 5px 10px;
+}
+.btn:hover{
+    background-color: white;
+    border: #e61b1e;
+}
+.btns{
+    display: flex;
+    justify-content: stretch;
+    margin-left: 25px;
+}
+#btn2{
+    border-left: none;
+    border-right: none;
+}
+.media{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#media-{
+    color: #ffffff;
+    padding: 0.9rem;
+    border: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.contact{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.listitems{
+    
+}
+li{
+    margin-bottom: 5px;
+}
+
+ul{
+    list-style-type: none;
+}
+.con{
+ 
+}
+.map{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    height: 70px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    color: #000000;
+    
+}
+.foot{
+    padding-left: 20px;
+    padding-right: 20px;
+display: flex;
+justify-content: space-around;
+}
+body{
+   
+    background-color:#000000;
+    color: white;
+    width:fit-content;
+}span{
+    color: red;
+}
